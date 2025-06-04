@@ -1,0 +1,6 @@
+openai
+faiss-cpu
+flask
+PyPDF2
+langchain
+tqdm
